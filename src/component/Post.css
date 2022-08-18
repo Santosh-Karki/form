@@ -1,0 +1,116 @@
+
+
+.grid-container {
+    
+    padding: 1px 50px 1px 50px;
+    text-align: center;
+ 
+}
+
+
+.grid-container > div {
+    
+    background-color: white;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 14px;
+    border-style:solid ;
+  }
+
+
+  .form-group{
+      text-align:left;
+  }
+
+  table, th, td {
+   
+    background-color:rgb(219, 222, 222);
+    color: black;
+    padding: 8px;
+    border-style: hidden;
+    border-color: white;
+    border-width: 2px black;
+    text-align: center;
+  }
+
+
+  .mb-3{
+    padding: 2px;
+  }
+
+  p.double {
+    border-style: solid;
+    text-align: left;
+  }
+
+
+
+.btn btn-primary btn-lg{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.form-control{
+  resize: none;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.textarea{
+  resize: none;
+  width: 95%;
+  border: none;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+/* second column is mentioned as second */
+.Patient{
+  text-align: right;
+  padding: 50px 50px 50px 50px;
+  border: 1px solid black;
+}
+
+.cardImage{
+  padding: 70px 50px 40px 50px;
+  text-align: center;
+ border: black;
+  
+}
+
+.submission{
+  padding: 5px 450px 5px 500px;
+}
+
+.Paragraph{
+  text-align: center;
+}
+.P-label{
+  color: black;
+  text-align: left;
+  font-weight: bold;
+}
+
+.checkbox{
+  border: 1px solid black;
+}
+
+.thankyou{
+  padding: 200px;
+}
+
+
+ 
+
+
+  
